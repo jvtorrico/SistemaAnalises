@@ -1,0 +1,19 @@
+Sistema de Análises
+
+Cliente no momento: Pai(Marka Fotografia)
+
+Requisitos Possíveis:
+
+Criar uma interface intuitiva e facil de usar
+
+Backup de dados
+
+Gerenciamento de imagens: Um software para uma empresa de fotografia deve ser capaz
+de gerenciar um grande número de imagens. Desenvolva recursos para organizar, categorizar e marcar fotos, permitindo que os usuários
+as localizem rapidamente. Considere a implementação de recursos de edição básica, como redimensionamento, recorte e ajustes de cor.
+
+Agendamentos e ferramentas de faturamento
+
+Segurança de informação
+
+Teste e Feedback
